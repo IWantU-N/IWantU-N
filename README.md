@@ -1,66 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=stealer.exe&fontColor=00FF41&color=0:000000,100:0D1117&stroke=00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=IWantU-N&fontColor=00ff66&color=0:0d1117,100:000000&fontSize=42"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=C%3A%5CUsers%5CMaxim%3E+whoami;Software+Engineer;CS2+Developer;Automation+Engineer;Reverse+Engineering;Status%3A+ONLINE"/>
-</a>
-
-<br><br>
-
-<a href="https://t.me/OwnPanelCS2">
-<img src="https://img.shields.io/badge/Telegram-OwnPanelCS2-00FF41?style=for-the-badge&logo=telegram&logoColor=000000"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=IWantU-N&style=for-the-badge&color=00FF41"/>
-
-<img src="https://img.shields.io/github/followers/IWantU-N?style=for-the-badge&color=00FF41&labelColor=000000"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00FF66&center=true&width=700&lines=%24+fastfetch;Software+Engineer;Linux+Enjoyer;C%2B%2B+Developer;Automation+%26+Reverse+Engineering"/>
 
 </div>
 
 ---
 
-# > C:\Users\Maxim\whoami
+# $ fastfetch
 
-```cmd
-Microsoft Windows [Version 11.0.26100]
-
-C:\Users\Maxim>whoami
-
-Name        : Maxim
-Username    : IWantU-N
-Role        : Software Engineer
-
-Focus
- ├─ CS2 Development
- ├─ Automation
- ├─ Reverse Engineering
- └─ Desktop Applications
-
-Languages
- ├─ C++
- ├─ C#
- ├─ Java
- ├─ Python
- └─ SQL
-
-Status      : ONLINE
-Mood        : CODING...
+```ansi
+                   -`                    Maxim@github
+                  .o+`                   -------------
+                 `ooo/                   OS        :: Arch Linux
+                `+oooo:                  Host      :: GitHub
+               `+oooooo:                 Kernel    :: 6.x
+               -+oooooo+:                Shell     :: zsh
+             `/:-:++oooo+:               Editor    :: VS Code
+            `/++++/+++++++:              Languages :: C++ C# Python Java
+           `/++++++++++++++:             Focus     :: Automation
+          `/+++ooooooooooooo/            Projects  :: CS2 • Desktop Apps
+         ./ooosssso++osssssso+           Status    :: Online
 ```
 
 ---
 
-# > dir /skills
+# $ ls ~/projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,github,linux,visualstudio,vscode&theme=dark"/>
-
-</p>
+```text
+📁 Automation
+📁 ReverseEngineering
+📁 Desktop
+📁 CS2
+📁 Experiments
+```
 
 ---
 
-# > systeminfo
+# $ tree ~/projects
+
+```text
+.
+├── Automation
+│   ├── Scripts
+│   └── Tools
+│
+├── ReverseEngineering
+│   ├── Research
+│   └── Utilities
+│
+├── CS2
+│   ├── ESPdx2
+│   ├── Panels
+│   └── Tools
+│
+└── DesktopApps
+```
+
+---
+
+# $ btop
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Mood        : CODING...
 
 ---
 
-# > net statistics
+# $ htop
 
 <div align="center">
 
@@ -82,44 +82,28 @@ Mood        : CODING...
 
 ---
 
-# > tree projects
+# $ cat /etc/skills
 
-```text
-C:\
-│
-├── 📂 Desktop Apps
-│
-├── 📂 Automation
-│
-├── 📂 Reverse Engineering
-│
-├── 📂 CS2
-│   ├── Mods
-│   ├── Tools
-│   ├── Panels
-│   ├── ESPdx2
-│   └── Automation
-│ 
-│
-└── 📂 Experiments
+```yaml
+languages:
+  - C++
+  - C#
+  - Java
+  - Python
+
+interests:
+  - Reverse Engineering
+  - Linux
+  - Automation
+  - Desktop Applications
+  - CS2
+
+status: coding...
 ```
 
 ---
 
-# > ping github
-
-```cmd
-Pinging github.com...
-
-Reply from github.com:
-    Status  : ONLINE
-    Projects: Available
-    Commits : ████████████████
-```
-
----
-
-# > snake.exe
+# $ watch git log
 
 <div align="center">
 
@@ -129,17 +113,8 @@ Reply from github.com:
 
 ---
 
-<div align="center">
+# $ exit
 
-```cmd
-C:\Users\Maxim>
-
-> Code.
-> Compile.
-> Debug.
-> Repeat.
-
-█
+```bash
+IWantU-N@github:~$ █
 ```
-
-</div>
