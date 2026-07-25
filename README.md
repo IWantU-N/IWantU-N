@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:000000,100:0D1117&text=IWantU-N&fontColor=00FF41&fontSize=28&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=$+fastfetch;$+btop;$+git+push;$+cmake+--build+.;$+./OwnPanel"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=100&color=00FF41&center=true&vCenter=true&width=700&lines=$+fastfetch;$+btop;$+git+push;$+cmake+--build+.;$+./OwnPanel"/>
 
 </div>
 
