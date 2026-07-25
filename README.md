@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1200&color=7CFC00&center=true&vCenter=true&width=750&lines=%24+fastfetch;%24+btop;%24+git+commit;%24+cmake+--build;%24+./OwnPanel"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:000000,100:0D1117&text=IWantU-N&fontColor=00FF41&fontSize=28&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=$+fastfetch;$+btop;$+git+push;$+cmake+--build+.;$+./OwnPanel"/>
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●                                                maxim@github:~          │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+
+
+
 
 ## $ fastfetch
 
@@ -23,22 +23,23 @@
            `/++++/+++++++:
           `/++++++++++++++:
          `/+++ooooooooooooo/
-        ./ooosssso++osssssso+
 
 maxim@github
-──────────────────────────────────
+──────────────────────────────────────────
 
-OS         Arch Linux x86_64
-Shell      zsh
-Terminal   kitty
-Editor     VS Code
-Languages  C++ • C# • Python • Java
-Focus      Reverse Engineering
-Projects   Automation • Desktop • CS2
-Status     Online
+OS          Arch Linux x86_64
+Kernel      6.x
+Shell       zsh
+Terminal    kitty
+Editor      VS Code
+Languages   C++ • C# • Python • Java
+Focus       Reverse Engineering
+Projects    Desktop • Automation • CS2
+Status      ● Online
 ```
 
----
+
+
 
 ## $ btop
 
@@ -47,64 +48,45 @@ Status     Online
 │ btop 1.4.5                                                   maxim@github    │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ CPU                                                      Memory              │
-│ ███████████████████████░░░ 74%                        ██████████░░ 39%       │
+│ ██████████████████████░░░░░ 72%                      █████████░░░░ 36%       │
 │                                                                              │
 │ Languages                                                                    │
-│ C++      ███                         6%                                      │
-│ C#       █████████████████           27%                                     │
-│ Python   ███████████                 15%                                     │
-│ Java     ████████                    12%                                     │
+│ C++       ██████████████████████████ 45%                                     │
+│ C#        ██████████████████         28%                                     │
+│ Python    ███████████               16%                                      │
+│ Java      ████████                  11%                                      │
 │                                                                              │
-│ Running Processes                                                            │
-│ ▶ OwnPanel                                              Running              │
-│ ▶ automation.py                                         Running              │
-│ ▶ reversing                                             Running              │
-│ ▶ debugger                                              Sleeping             │
+│ Running                                                                      │
+│ ▶ OwnPanel                                                Running            │
+│ ▶ ESPdx2                                                  Running            │
+│ ▶ reversing                                               Running            │
+│ ▶ vscode                                                  Running            │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
----
 
-## $ ls
-
-```text
-Automation/
-CS2/
-ESPdx2/
-Desktop/
-ReverseEngineering/
-Experiments/
-```
-
----
 
 ## $ tree
 
 ```text
 .
-├── Automation
-│   ├── Panels
+├── 📁 Automation
 │   ├── Scripts
-│   └── Tools
+│   ├── Tools
+│   └── Panels
 │
-├── CS2
-│   ├── Mods
+├── 📁 Desktop
+│
+├── 📁 ReverseEngineering
+│
+├── 📁 CS2
 │   ├── SDK
-|   ├── ESPdx2
-│   └── Utilities
+│   ├── Tools
+│   ├── ESPdx2
+│   └── Panels
 │
-├── Desktop
-│   ├── WinForms
-│   └── WPF
-│
-└── ReverseEngineering
-    ├── Memory
-    ├── Analysis
-    └── Research
+└── 📁 Experiments
 ```
-
----
-
 ## $ cat about.yml
 
 ```yaml
@@ -124,26 +106,23 @@ interests:
   - Reverse Engineering
   - Automation
   - Desktop Development
-  - CS2
 
 telegram: @OwnPanelCS2
 
 status: Coding...
 ```
 
----
 
 ## $ git log --oneline
 
 ```text
-f4e12ac Improve project architecture
-91da82b Refactor automation modules
-43bc2ef Add desktop utilities
-12ce09d Performance optimizations
-7ac51c1 Initial commit
+84ac2bf  Improve OwnPanel
+53ab8fe  Refactor modules
+19d0f6a  Optimize performance
+ce71d93  Add new features
+1bb3f0d  Initial commit
 ```
 
----
 
 ```bash
 maxim@github:~$ █
