@@ -1,37 +1,106 @@
 <div align="center">
 
-<!-- Анимированный заголовок -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=00ff88&color=0:0d1117,100:003b1f&animation=fadeIn"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22);;Welcome+to+my+GitHub+Profile;CS%3AGO%2FCS2+Developer+%26+Enthusiast;Check+out+my+Telegram+Channel!;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami;Software+Developer;CS2+Automation+%26+Tools;Reverse+Engineering+Enthusiast;Always+Building+Something+New..." />
 </a>
 
-<p align="center">
-  <b>Developer | CS2 Modding & Automation | Software Engineer</b>
-</p>
+<br>
 
-<!-- Кнопки Telegram и Соцсетей -->
-<p align="center">
-  <a href="https://t.me/OwnPanelCS2" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Channel-OwnPanelCS2-00FF66?style=for-the-badge&logo=telegram&logoColor=0D1117&labelColor=00FF66" alt="Telegram Channel" />
-  </a>
-</p>
+<a href="https://t.me/OwnPanelCS2">
+<img src="https://img.shields.io/badge/Telegram-OwnPanelCS2-00FF88?style=for-the-badge&logo=telegram&logoColor=black"/>
+</a>
 
-<!-- Работающий счетчик просмотров + бейджи -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00FF66&style=for-the-badge&base=0" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&logo=github&style=for-the-badge&color=00FF66&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&logo=github&style=for-the-badge&color=00FF66&labelColor=0D1117" />
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/IWantU-N?style=for-the-badge&color=00FF88&labelColor=0D1117"/>
+</a>
+
+<a href="https://github.com/IWantU-N">
+<img src="https://komarev.com/ghpvc/?username=IWantU-N&style=for-the-badge&color=00FF88"/>
+</a>
 
 </div>
 
 ---
 
-### 💻 **`> whoami`**
+# 💻 whoami
 
-```console
-$ info --user YOUR_GITHUB_USERNAME
-> Role: Software & Script Developer
-> Focus: CS2 Automation, Mods, Tools & Panels
-> Telegram: [https://t.me/OwnPanelCS2](https://t.me/OwnPanelCS2)
-> Status: Coding & Optimizing...
+```bash
+$ whoami
+
+Name      :: Maxim
+Role      :: Software Engineer
+Focus     :: Automation • Tools • Reverse Engineering
+Languages :: C++, C#, Python, Java
+Status    :: Building cool things...
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,git,github,linux,vscode,visualstudio&theme=dark"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- ⚙️ Desktop Applications
+- 🧠 Reverse Engineering
+- 🤖 Automation Tools
+- 🎮 CS2 Development
+- 🔥 Performance Optimization
+
+---
+
+<div align="center">
+
+```text
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+```
+
+*"Code. Optimize. Repeat."*
+
+</div>
